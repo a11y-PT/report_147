@@ -5,8 +5,8 @@ uri: "https://www.cm-albufeira.pt/"   # Entre as aspas escreve o domínio do web
 a11y_statement: "https://www.cm-albufeira.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "CM de Albufeira"         # Entre as aspas escrever o nome do owner do website
 seal: "Bronze"                          # Entre as aspas escreve Bronze, Prata ou Ouro
-validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
-status: "A aguardar correções da entidade" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
+validity: "21-09-2026 a 21-09-2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
 # Relatório de auditoria
@@ -29,7 +29,7 @@ Consulte aqui a última atualização: [Relatório Portal do Município de Albuf
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="06082026_report.html">(06/08/2026). Relatório Portal do Município de Albufeira</a></li>
+    <li><a href="21092026_report.html">(21/09/2026). Relatório Portal do Município de Albufeira</a></li>
   </ul>
 </details>
 
